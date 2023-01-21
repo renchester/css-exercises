@@ -1,4 +1,75 @@
-body, html {
+-
+  The
+  gap
+  is
+  15px
+  -
+  The
+  grid
+  has
+  two
+  columns
+  -
+  The
+  grid
+  has
+  four
+  rows
+  -
+  The
+  second
+  column
+  is
+  three
+  times
+  larger
+  than
+  the
+  first
+  -
+  The
+  third
+  row
+  is
+  five
+  times
+  larger
+  than
+  the
+  others
+  -
+  The
+  header
+  and
+  footer
+  elements
+  span
+  across
+  both
+  columns
+  -
+  The
+  sidebar
+  element
+  only
+  spans
+  across
+  the
+  first
+  column
+  -
+  The
+  nav
+  and
+  article
+  elements
+  span
+  across
+  the
+  second
+  column
+  body,
+html {
   height: 100%;
   margin: 0;
 }
@@ -20,15 +91,15 @@ body, html {
 }
 
 .header {
-  background-color: #FFDE22;
+  background-color: #ffde22;
 }
 
 .sidebar {
-  background-color: #FF7755;
+  background-color: #ff7755;
 }
 
 .nav {
-  background-color: #00DDFF;
+  background-color: #00ddff;
 }
 
 .article {
